@@ -1,2 +1,2 @@
-# scraper-de-noticia.
+# scraper-de-noticias.
 scraper de noticias.
