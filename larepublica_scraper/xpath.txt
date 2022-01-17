@@ -1,0 +1,5 @@
+HOME_URL ='https://www.larepublica.co/'
+link = '//text-fill/a/@href'
+title = '//div[@class="mb-auto"]/text-fill/span/text()'
+summary = '//div[@class="lead"]/p/text()'
+body = '//div[@class="html-content"]/p[not(@class)]/text()'
