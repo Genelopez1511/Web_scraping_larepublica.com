@@ -5,6 +5,9 @@ Es un proyecto en donde se realiza un web scraping a la pagina de despegar.com s
 utilizando librerias como:
 - resquests
 - lxml
+- os
+- datetime
+- autopep 8
 ## Archivos
 - Jupyter notebook nombre webscraping_larepublica, con el codigo del proyecto
 - Carpeta con los archivo extraidos.
